@@ -1,5 +1,7 @@
-import org.junit.Test;
 import static org.junit.Assert.*;
+
+import org.junit.Test;
+
 
 public class CalculatorTest {
     private final Calculator calc = new Calculator();
